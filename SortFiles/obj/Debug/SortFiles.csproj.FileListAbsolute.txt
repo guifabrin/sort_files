@@ -1,0 +1,6 @@
+C:\Users\guilh\Dropbox\projetos\SortFiles\SortFiles\bin\Debug\SortFiles.exe.config
+C:\Users\guilh\Dropbox\projetos\SortFiles\SortFiles\bin\Debug\SortFiles.exe
+C:\Users\guilh\Dropbox\projetos\SortFiles\SortFiles\bin\Debug\SortFiles.pdb
+C:\Users\guilh\Dropbox\projetos\SortFiles\SortFiles\obj\Debug\SortFiles.csprojResolveAssemblyReference.cache
+C:\Users\guilh\Dropbox\projetos\SortFiles\SortFiles\obj\Debug\SortFiles.exe
+C:\Users\guilh\Dropbox\projetos\SortFiles\SortFiles\obj\Debug\SortFiles.pdb

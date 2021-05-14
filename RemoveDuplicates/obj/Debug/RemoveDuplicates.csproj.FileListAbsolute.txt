@@ -1,0 +1,6 @@
+C:\Users\guilh\Dropbox\projetos\SortFiles\RemoveDuplicates\obj\Debug\RemoveDuplicates.csprojResolveAssemblyReference.cache
+C:\Users\guilh\Dropbox\projetos\SortFiles\RemoveDuplicates\bin\Debug\RemoveDuplicates.exe.config
+C:\Users\guilh\Dropbox\projetos\SortFiles\RemoveDuplicates\bin\Debug\RemoveDuplicates.exe
+C:\Users\guilh\Dropbox\projetos\SortFiles\RemoveDuplicates\bin\Debug\RemoveDuplicates.pdb
+C:\Users\guilh\Dropbox\projetos\SortFiles\RemoveDuplicates\obj\Debug\RemoveDuplicates.exe
+C:\Users\guilh\Dropbox\projetos\SortFiles\RemoveDuplicates\obj\Debug\RemoveDuplicates.pdb
